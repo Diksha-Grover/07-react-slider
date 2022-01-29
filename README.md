@@ -2,4 +2,4 @@
 
 screenshot of output:
 
-<img src="menu.png">
+<img src='slider.png'>
